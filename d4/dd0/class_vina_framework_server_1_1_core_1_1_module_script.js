@@ -9,5 +9,5 @@ var class_vina_framework_server_1_1_core_1_1_module_script =
     [ "GetExport", "d4/dd0/class_vina_framework_server_1_1_core_1_1_module_script.html#a9b63ea9bbcea9f415f75763c4f4df19d", null ],
     [ "SetExport", "d4/dd0/class_vina_framework_server_1_1_core_1_1_module_script.html#a42aa247e9ea4598a48c58eebad8549c1", null ],
     [ "Log", "d4/dd0/class_vina_framework_server_1_1_core_1_1_module_script.html#a97a82e832dc160f606e2d693fa74f51c", null ],
-    [ "LogError", "d4/dd0/class_vina_framework_server_1_1_core_1_1_module_script.html#ac71336ad1f7da66292e09eff9e6c8a30", null ]
+    [ "LogError", "d4/dd0/class_vina_framework_server_1_1_core_1_1_module_script.html#a868e4961d28507323d0ee30a0630f59e", null ]
 ];

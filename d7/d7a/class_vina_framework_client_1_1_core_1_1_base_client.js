@@ -4,6 +4,7 @@ var class_vina_framework_client_1_1_core_1_1_base_client =
     [ "HasModule", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#a7b9c7d873a2f381ebee05460705d4185", null ],
     [ "AddModule", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#a557cdf9d3970bb32e6a4f5baf4be36d4", null ],
     [ "GetModule< T >", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#ad29184f80d473e807d2a4169c5f8000a", null ],
+    [ "GetPlayers", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#aa04d432152f2ee860ee7d8cd69df4530", null ],
     [ "AddEvent", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#a4222ebc1fcd98c76b0ae6170760e9057", null ],
     [ "RemoveEvent", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#a45e92d2435c30b7a0dbb045f886e064b", null ],
     [ "AddTick", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#af5c4159f860028763acc33b8f8f8f895", null ],

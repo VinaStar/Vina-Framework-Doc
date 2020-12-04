@@ -25,7 +25,10 @@
 var NAVTREE =
 [
   [ "Vina Framework", "index.html", [
-    [ "Vina-Framework", "d3/dcc/md__r_e_a_d_m_e.html", null ],
+    [ "Vina-Framework", "d3/dcc/md__r_e_a_d_m_e.html", [
+      [ "TEMPLATE", "d3/dcc/md__r_e_a_d_m_e.html#autotoc_md2", null ],
+      [ "INFORMATIONS", "d3/dcc/md__r_e_a_d_m_e.html#autotoc_md4", null ]
+    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
