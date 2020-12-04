@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['name_13',['Name',['../d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#a75398d0e3ec56ce2813a2ab4518aafda',1,'VinaFrameworkClient.Core.BaseClient.Name()'],['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#a961cbc92af266931ab61ef864616ba43',1,'VinaFrameworkClient.Core.Module.Name()'],['../d2/dc5/class_vina_framework_server_1_1_core_1_1_base_server.html#aceee616f8cf41f96d0717b14a0d15960',1,'VinaFrameworkServer.Core.BaseServer.Name()'],['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a0e24f98ffe5b5e0398f9beeaabfe8665',1,'VinaFrameworkServer.Core.Module.Name()']]]
+  ['onmoduleinitialized_15',['OnModuleInitialized',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#a9e80736025aac686024563853099db78',1,'VinaFrameworkClient.Core.Module.OnModuleInitialized()'],['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a3e98ddde0f07658d748f4033b833e593',1,'VinaFrameworkServer.Core.Module.OnModuleInitialized()']]],
+  ['onplayerclientinitialized_16',['OnPlayerClientInitialized',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a1351ed9d67a807c024e89627d26eb96f',1,'VinaFrameworkServer::Core::Module']]],
+  ['onplayerconnecting_17',['OnPlayerConnecting',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a3d0f0149a17cd633b0bcff1a7afbb634',1,'VinaFrameworkServer::Core::Module']]],
+  ['onplayerdropped_18',['OnPlayerDropped',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a2b2ae0f4c9137eee4564b79186ee86aa',1,'VinaFrameworkServer::Core::Module']]]
 ];
