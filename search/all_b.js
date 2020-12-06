@@ -1,7 +1,10 @@
 var searchData=
 [
-  ['core_26',['Core',['../d6/d52/namespace_vina_framework_client_1_1_core.html',1,'VinaFrameworkClient.Core'],['../dd/d35/namespace_vina_framework_server_1_1_core.html',1,'VinaFrameworkServer.Core']]],
-  ['vina_2dframework_27',['Vina-Framework',['../d3/dcc/md__r_e_a_d_m_e.html',1,'']]],
-  ['vinaframeworkclient_28',['VinaFrameworkClient',['../d4/d9f/namespace_vina_framework_client.html',1,'']]],
-  ['vinaframeworkserver_29',['VinaFrameworkServer',['../d5/d48/namespace_vina_framework_server.html',1,'']]]
+  ['script_30',['script',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#ae2be1adf0443746671dcc7420965a3d6',1,'VinaFrameworkClient.Core.Module.script()'],['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a2020e715114234a942dc2fa2c6fecc1b',1,'VinaFrameworkServer.Core.Module.script()']]],
+  ['sendnuiactiondata_31',['SendNuiActionData',['../d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#af0ff7a4d4e7d598dfd4ecc0e0dde9f33',1,'VinaFrameworkClient.Core.BaseClient.SendNuiActionData(NuiRequest nuiRequest)'],['../d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#ae6978d8f259d315a451dead683315965',1,'VinaFrameworkClient.Core.BaseClient.SendNuiActionData(string action, dynamic data=null)']]],
+  ['sendnuiactiondatato_32',['SendNuiActionDataTo',['../d2/dc5/class_vina_framework_server_1_1_core_1_1_base_server.html#a43c180740f28c371dd8b2e6503469ba7',1,'VinaFrameworkServer::Core::BaseServer']]],
+  ['sendnuiactiondatatoall_33',['SendNuiActionDataToAll',['../d2/dc5/class_vina_framework_server_1_1_core_1_1_base_server.html#acb4e89e19299d6f76b8c3b17bf0f51d2',1,'VinaFrameworkServer::Core::BaseServer']]],
+  ['serializeobject_34',['SerializeObject',['../d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#a58beefef7e5dadca1a0751a7f1f33edf',1,'VinaFrameworkClient.Core.BaseClient.SerializeObject()'],['../d2/dc5/class_vina_framework_server_1_1_core_1_1_base_server.html#a6c3bb83e2c4ac0dd74923435cdab2ba5',1,'VinaFrameworkServer.Core.BaseServer.SerializeObject()']]],
+  ['server_35',['server',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#ae2c1dad70b6af95a98a60e3e5df92dda',1,'VinaFrameworkServer::Core::Module']]],
+  ['setexport_36',['SetExport',['../d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#aaefde4b8ca6ecf8d2c086a0d54109294',1,'VinaFrameworkClient.Core.BaseClient.SetExport()'],['../d5/d73/class_vina_framework_client_1_1_core_1_1_module_script.html#a2d44c97aa5948a22120138cc11537945',1,'VinaFrameworkClient.Core.ModuleScript.SetExport()'],['../d2/dc5/class_vina_framework_server_1_1_core_1_1_base_server.html#afb1532a426622916f6d10d8bd99ea5d6',1,'VinaFrameworkServer.Core.BaseServer.SetExport()'],['../d4/dd0/class_vina_framework_server_1_1_core_1_1_module_script.html#a42aa247e9ea4598a48c58eebad8549c1',1,'VinaFrameworkServer.Core.ModuleScript.SetExport()']]]
 ];

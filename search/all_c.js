@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['core_25',['Core',['../d6/d52/namespace_vina_framework_client_1_1_core.html',1,'VinaFrameworkClient.Core'],['../dd/d35/namespace_vina_framework_server_1_1_core.html',1,'VinaFrameworkServer.Core']]],
-  ['vina_2dframework_26',['Vina-Framework',['../d3/dcc/md__r_e_a_d_m_e.html',1,'']]],
-  ['vinaframeworkclient_27',['VinaFrameworkClient',['../d4/d9f/namespace_vina_framework_client.html',1,'']]],
-  ['vinaframeworkserver_28',['VinaFrameworkServer',['../d5/d48/namespace_vina_framework_server.html',1,'']]]
+  ['usegarbagecollector_37',['UseGarbageCollector',['../d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#ad91a15c1d13a8aae571deeeb033e54d2',1,'VinaFrameworkClient.Core.BaseClient.UseGarbageCollector()'],['../d2/dc5/class_vina_framework_server_1_1_core_1_1_base_server.html#aa0b5c70ec1e2c9a754505fb92fbac483',1,'VinaFrameworkServer.Core.BaseServer.UseGarbageCollector()']]],
+  ['useplayerdeadresurectwatcher_38',['UsePlayerDeadResurectWatcher',['../d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#af7754ce1eed4332bdd91f451875f291b',1,'VinaFrameworkClient::Core::BaseClient']]]
 ];

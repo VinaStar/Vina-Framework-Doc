@@ -12,7 +12,7 @@ var class_vina_framework_client_1_1_core_1_1_base_client =
     [ "GetExports", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#aee250f992c1bd57ec54629dd497b1122", null ],
     [ "GetExport", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#a196e2e1697943dfaf68c68865b7b6b70", null ],
     [ "SetExport", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#aaefde4b8ca6ecf8d2c086a0d54109294", null ],
-    [ "Log", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#a3d5b1caf3abe9baf75a847ae90d469fd", null ],
-    [ "LogError", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#a5e1477c5aed2a12ebbeff2aa28c2c8f6", null ],
-    [ "Name", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#a75398d0e3ec56ce2813a2ab4518aafda", null ]
+    [ "Name", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#a75398d0e3ec56ce2813a2ab4518aafda", null ],
+    [ "UseGarbageCollector", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#ad91a15c1d13a8aae571deeeb033e54d2", null ],
+    [ "UsePlayerDeadResurectWatcher", "d7/d7a/class_vina_framework_client_1_1_core_1_1_base_client.html#af7754ce1eed4332bdd91f451875f291b", null ]
 ];
