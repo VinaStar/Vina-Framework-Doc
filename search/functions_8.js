@@ -1,9 +1,20 @@
 var searchData=
 [
-  ['onmoduleinitialized_70',['OnModuleInitialized',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#a9e80736025aac686024563853099db78',1,'VinaFrameworkClient.Core.Module.OnModuleInitialized()'],['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a3e98ddde0f07658d748f4033b833e593',1,'VinaFrameworkServer.Core.Module.OnModuleInitialized()']]],
-  ['onplayerclientinitialized_71',['OnPlayerClientInitialized',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#adc85343a30599b86b561335a4647a2ee',1,'VinaFrameworkServer::Core::Module']]],
-  ['onplayerconnecting_72',['OnPlayerConnecting',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#af22485d7304c6a990baed54079fe51c8',1,'VinaFrameworkServer::Core::Module']]],
-  ['onplayerdied_73',['OnPlayerDied',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#a67fc666687a14bf192316da95fb0e205',1,'VinaFrameworkClient::Core::Module']]],
-  ['onplayerdropped_74',['OnPlayerDropped',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a624f7f8785fba1440f1a1a4622f7642d',1,'VinaFrameworkServer::Core::Module']]],
-  ['onplayerresurect_75',['OnPlayerResurect',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#af338ebcd26bf7b45aef501f33483121b',1,'VinaFrameworkClient::Core::Module']]]
+  ['onentitycreated_87',['OnEntityCreated',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a8b1654f1d4222f32fadaa398b9f5b951',1,'VinaFrameworkServer::Core::Module']]],
+  ['onentitycreating_88',['OnEntityCreating',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a918e125a370ee9967729b6ce4cc04572',1,'VinaFrameworkServer::Core::Module']]],
+  ['onentityremoved_89',['OnEntityRemoved',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#ac910ad6cbd1037410bf7e3d2e7abe935',1,'VinaFrameworkServer::Core::Module']]],
+  ['ongameeventtriggered_90',['OnGameEventTriggered',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#aef8eec4ae9127b9b74203a7f7f5c1749',1,'VinaFrameworkClient::Core::Module']]],
+  ['onmoduleinitialized_91',['OnModuleInitialized',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#ad60b42bb09e16be53ccb2eb2fb5694dd',1,'VinaFrameworkClient.Core.Module.OnModuleInitialized()'],['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#ae78c493e8e4a0f8e6e9d13ef6252e848',1,'VinaFrameworkServer.Core.Module.OnModuleInitialized()']]],
+  ['onplayerclientinitialized_92',['OnPlayerClientInitialized',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#ae3a4047ea3bf9bfce32bfde49d1a3748',1,'VinaFrameworkServer::Core::Module']]],
+  ['onplayerconnecting_93',['OnPlayerConnecting',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a091f6b641f0b54e2bc27bd550982adc1',1,'VinaFrameworkServer::Core::Module']]],
+  ['onplayerdied_94',['OnPlayerDied',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#a37840ec5258b32488ff369cf904b5fd5',1,'VinaFrameworkClient::Core::Module']]],
+  ['onplayerdropped_95',['OnPlayerDropped',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a52c4ccabd369dea748138ed2d1886d7f',1,'VinaFrameworkServer::Core::Module']]],
+  ['onplayerenteredscope_96',['OnPlayerEnteredScope',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a856342c5c71463d132e36916745a3b69',1,'VinaFrameworkServer::Core::Module']]],
+  ['onplayerjoining_97',['OnPlayerJoining',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#aad44dc200af426704e2141c72b547a55',1,'VinaFrameworkServer::Core::Module']]],
+  ['onplayerleftscope_98',['OnPlayerLeftScope',['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#ad12afffb1737e29321e567aff834d42c',1,'VinaFrameworkServer::Core::Module']]],
+  ['onplayerresurect_99',['OnPlayerResurect',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#a3fc58fa9185be69871332520d08fe7e4',1,'VinaFrameworkClient::Core::Module']]],
+  ['onpopulationpedcreating_100',['OnPopulationPedCreating',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#ad5267ba119918a4017b49cba9e2bc51b',1,'VinaFrameworkClient::Core::Module']]],
+  ['onresourcestart_101',['OnResourceStart',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#a71fe2ff10bea68b74851869a3b08c8c0',1,'VinaFrameworkClient.Core.Module.OnResourceStart()'],['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a80be9f53ffc127f287798eb23e530d15',1,'VinaFrameworkServer.Core.Module.OnResourceStart()']]],
+  ['onresourcestarting_102',['OnResourceStarting',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#a730be5b31d7849d5b54a9a4e2c667f86',1,'VinaFrameworkClient.Core.Module.OnResourceStarting()'],['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a72488f194159ec65b8345c6d74bc058a',1,'VinaFrameworkServer.Core.Module.OnResourceStarting()']]],
+  ['onresourcestop_103',['OnResourceStop',['../d7/db6/class_vina_framework_client_1_1_core_1_1_module.html#a64a0fe450d986916c9e967ac7dec6dfc',1,'VinaFrameworkClient.Core.Module.OnResourceStop()'],['../da/db8/class_vina_framework_server_1_1_core_1_1_module.html#a4e70d41cd24866d5f1cb28e29df12000',1,'VinaFrameworkServer.Core.Module.OnResourceStop()']]]
 ];
